@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=React+Developer;Next.js+Developer;Laravel+Backend+Developer;Firebase+%7C+MySQL;Building+Clean+%26+Fast+Web+Apps" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeinHtetKo99&color=0ea5e9" />
-</p>
-
 ---
 
 # 👋 About Me
@@ -69,7 +65,9 @@ Responsive marketing landing page built with HTML/CSS/JS
 # 📬 Contact
 
 📧 [heinhtetko69@gmail.com](mailto:heinhtetko69@gmail.com)
+
 💼 LinkedIn → [https://linkedin.com/in/hein-htet-ko-b923b53a1](https://linkedin.com/in/hein-htet-ko-b923b53a1)
+
 🐙 GitHub → [https://github.com/HeinHtetKo99](https://github.com/HeinHtetKo99)
 
 ---

@@ -14,12 +14,12 @@
 
 I am a **Full Stack Web Developer** who builds modern, responsive, and production-ready web applications.
 
-• Strong in **React & Next.js frontend development**
-• Backend experience with **Laravel (PHP)**
-• Database design using **MySQL & Firebase**
+• Strong in **React & Next.js frontend development**  
+• Backend experience with **Laravel (PHP)**  
+• Database design using **MySQL, Firebase & MongoDB Atlas**  
 • Focus on **clean code, performance, and user experience**
 
-🎯 Looking for: ** Frontend / Full Stack Developer roles**
+🎯 Looking for: **Frontend / Full Stack Developer roles**
 
 ---
 
@@ -35,7 +35,13 @@ I am a **Full Stack Web Developer** who builds modern, responsive, and productio
 
 ### 🗄 Database
 
-![DB](https://skillicons.dev/icons?i=mysql)
+![DB](https://skillicons.dev/icons?i=mysql,mongodb)
+
+### ☁️ Deployment & Cloud
+
+![Cloud](https://skillicons.dev/icons?i=vercel)
+<img src="https://cdn.simpleicons.org/railway/0EA5E9" height="48" />
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="48" />
 
 ### 🔧 Tools
 
@@ -45,30 +51,53 @@ I am a **Full Stack Web Developer** who builds modern, responsive, and productio
 
 # 🚀 Featured Projects
 
-## 📚 Book Library App
+## 🏋️ GymFlow SaaS Management
 
-React + Firebase CRUD application with authentication, search and notes
-🔗 [https://github.com/HeinHtetKo99/book_library](https://github.com/HeinHtetKo99/book_library)
+Production-ready gym management SaaS with RBAC, member lifecycle tracking, attendance monitoring, and payment workflows
+
+🔗 Demo: https://gym-flow-smoky.vercel.app/
+
+---
+
+## 💬 Coders Community Forum
+
+Production-style developer Q&A platform with modern UI, authentication, and dynamic content (questions, tags, answers, votes)
+
+🔗 Demo: https://coders-community-dun.vercel.app/
+
+---
 
 ## 🗂 TaskFlow Workspace App
 
-Task management app with roles, permissions and Firestore
-🔗 [https://github.com/HeinHtetKo99/TaskFlow_App](https://github.com/HeinHtetKo99/TaskFlow_App)
+Task management app with roles, permissions and Firestore  
+
+🔗 Demo: https://taskflow-five-gules.vercel.app/
+
+---
+
+## 📚 Book Library App
+
+React + Firebase CRUD application with authentication, search and notes  
+
+🔗 Demo: https://book-store-52e12.web.app/
+
+---
 
 ## 🎮 GameHub Landing Page
 
-Responsive marketing landing page built with HTML/CSS/JS
-🔗 [https://github.com/HeinHtetKo99/GameHub-Gaming-Platform-Landing-Page](https://github.com/HeinHtetKo99/GameHub-Gaming-Platform-Landing-Page)
+Responsive marketing landing page built with HTML/CSS/JS  
+
+🔗 Demo: https://heinhtetko99.github.io/GameHub-Gaming-Platform-Landing-Page/
 
 ---
 
 # 📬 Contact
 
-📧 [heinhtetko69@gmail.com](mailto:heinhtetko69@gmail.com)
+📧 heinhtetko69@gmail.com  
 
-💼 LinkedIn → [https://linkedin.com/in/hein-htet-ko-b923b53a1](https://linkedin.com/in/hein-htet-ko-b923b53a1)
+💼 LinkedIn → https://linkedin.com/in/hein-htet-ko-b923b53a1  
 
-🐙 GitHub → [https://github.com/HeinHtetKo99](https://github.com/HeinHtetKo99)
+🐙 GitHub → https://github.com/HeinHtetKo99  
 
 ---
 

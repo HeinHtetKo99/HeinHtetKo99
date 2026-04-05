@@ -12,14 +12,14 @@
 
 # 👋 About Me
 
-I am a **Full Stack Web Developer** who builds modern, responsive, and production-ready web applications.
+I am a **Full Stack Web Developer** focused on building modern, scalable, and high-performance web applications.
 
-• Strong in **React & Next.js frontend development**  
-• Backend experience with **Laravel (PHP)**  
-• Database design using **MySQL, Firebase & MongoDB Atlas**  
-• Focus on **clean code, performance, and user experience**
+• Specialized in **React & Next.js** for building fast, responsive UIs  
+• Experienced in **Laravel (PHP)** for robust backend development  
+• Skilled in **MySQL, Firebase & MongoDB Atlas** for scalable data design  
+• Passionate about **clean architecture, performance optimization, and great user experience**
 
-🎯 Looking for: **Frontend / Full Stack Developer roles**
+🎯 Currently seeking **Frontend / Full Stack Developer opportunities**
 
 ---
 
@@ -41,7 +41,6 @@ I am a **Full Stack Web Developer** who builds modern, responsive, and productio
 
 ![Cloud](https://skillicons.dev/icons?i=vercel)
 <img src="https://cdn.simpleicons.org/railway/0EA5E9" height="48" />
-<img src="https://cdn.simpleicons.org/mongodb/47A248" height="48" />
 
 ### 🔧 Tools
 

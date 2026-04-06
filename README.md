@@ -92,11 +92,11 @@ Responsive marketing landing page built with HTML/CSS/JS
 
 # 📬 Contact
 
+🌐 Portfolio → https://hein-htet-ko.vercel.app/
+
 📧 heinhtetko69@gmail.com  
 
 💼 LinkedIn → https://linkedin.com/in/hein-htet-ko-b923b53a1  
-
-🐙 GitHub → https://github.com/HeinHtetKo99  
 
 ---
 
